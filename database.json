@@ -1,7 +1,12 @@
 {
   "workspace": {},
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/408fcc057a428b22d5614976049b6d00.git:cube.groovy": [
+      "https://gist.github.com/408fcc057a428b22d5614976049b6d00.git",
+      "cube.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.9.4",
