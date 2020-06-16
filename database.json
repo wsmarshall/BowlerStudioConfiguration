@@ -11,8 +11,8 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/408fcc057a428b22d5614976049b6d00.git:cube.groovy": [
-      "https://gist.github.com/408fcc057a428b22d5614976049b6d00.git",
+    "https://github.com/wsmarshall/javaCAD.git:cube.groovy": [
+      "https://github.com/wsmarshall/javaCAD.git",
       "cube.groovy"
     ]
   },
