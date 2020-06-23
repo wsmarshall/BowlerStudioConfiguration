@@ -10,7 +10,12 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/wsmarshall/javaCAD.git:whitePawn.groovy": [
+      "https://github.com/wsmarshall/javaCAD.git",
+      "whitePawn.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.9.4",
