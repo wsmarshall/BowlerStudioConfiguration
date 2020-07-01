@@ -3,19 +3,10 @@
     "https://gist.github.com/408fcc057a428b22d5614976049b6d00.git": [
       "GIST: cube.groovy",
       "1592237959814"
-    ],
-    "https://github.com/wsmarshall/javaCAD.git": [
-      "wsmarshall/javaCAD",
-      "1592929393879"
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://github.com/wsmarshall/javaCAD.git:testChessPiece.groovy": [
-      "https://github.com/wsmarshall/javaCAD.git",
-      "testChessPiece.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.9.4",
