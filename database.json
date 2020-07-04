@@ -14,10 +14,6 @@
     "https://github.com/wsmarshall/javaCAD.git:testChessPiece.groovy": [
       "https://github.com/wsmarshall/javaCAD.git",
       "testChessPiece.groovy"
-    ],
-    "https://github.com/wsmarshall/javaCAD.git:experimental piece.groovy": [
-      "https://github.com/wsmarshall/javaCAD.git",
-      "experimental piece.groovy"
     ]
   },
   "BowlerStudioConfigs": {
