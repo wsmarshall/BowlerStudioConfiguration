@@ -26,6 +26,14 @@
     "https://github.com/wsmarshall/javaCAD.git:testKeychain.groovy": [
       "https://github.com/wsmarshall/javaCAD.git",
       "testKeychain.groovy"
+    ],
+    "https://github.com/wsmarshall/Luna_copy.git:FrontRightCad.groovy": [
+      "https://github.com/wsmarshall/Luna_copy.git",
+      "FrontRightCad.groovy"
+    ],
+    "https://github.com/wsmarshall/Luna_copy.git:lunacad.groovy": [
+      "https://github.com/wsmarshall/Luna_copy.git",
+      "lunacad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
